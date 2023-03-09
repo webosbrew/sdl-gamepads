@@ -1,0 +1,1 @@
+target_sources(sdl_gamepads PRIVATE events.c)
